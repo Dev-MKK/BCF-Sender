@@ -69,3 +69,5 @@ Contact Form ဖြစ်သည့်အတွက်အသုံးပြုသ�
  <application .....
      android:usesCleartextTraffic="true">
 ```
+
+<a href='https://play.google.com/store/apps/details?id=com.mgngoe.zfont'><img alt='Get it on Google Play' src='https://i.imgur.com/sAG6aQb.png'/></a>
