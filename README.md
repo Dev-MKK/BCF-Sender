@@ -72,4 +72,4 @@ Contact Form ဖြစ်သည့်အတွက်အသုံးပြုသ�
 
 ## ယခု Library အသုံးပြုထားသော App များ
 <a  href='https://play.google.com/store/apps/details?id=com.mgngoe.zfont'><img  alt='Get it on Google Play'  src='https://github.com/KhunHtetzNaing/BCF-Sender/raw/master/photos/zfont.png' height=100px/></a>
-<a  href='https://play.google.com/store/apps/details?id=com.pky.mifontinstaller'><img  alt='Get it on Google Play'  src='https://github.com/KhunHtetzNaing/BCF-Sender/raw/master/photos/miui.png' height=100px/></a>
+<a  href='https://play.google.com/store/apps/details?id=com.pky.mifontinstaller'><img  alt='Get it on Google Play'  src='https://github.com/KhunHtetzNaing/BCF-Sender/raw/master/photos/miui.png' height=90px/></a>
